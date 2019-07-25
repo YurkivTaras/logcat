@@ -2,7 +2,7 @@
 A library that allows you to view the application logs with a special activity for that
 
 <p align="center">
-    <img src="https://drive.google.com/uc?authuser=0&id=1cN5baMWQe_4I1lEyCPwXRX7oVOMa2vhP&export=download"/>
+    <img src="https://drive.google.com/uc?authuser=0&id=1KFNuEUq2GO0Q0ATtZcJetMulwpPQs5x3&export=download"/>
 </p>
 
 

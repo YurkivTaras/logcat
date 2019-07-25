@@ -29,3 +29,11 @@ Android SDK Version
 ===================
 
 Library requires a minimum SDK version of 14. 
+
+How to use
+===================
+```
+Intent intent = new Intent(getContext(), LogcatActivity.class);
+intent.putExtra(LogcatActivity.BUFFER_SIZE_EXTRA, 1000);//default is 2500
+startActivity(intent);
+```

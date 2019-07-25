@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.devlight.logcat">
+
+	<application>
+		<activity
+			android:name=".LogcatActivity"
+			android:theme="@style/LogcatActivityTheme"
+			android:windowSoftInputMode="stateHidden" />
+	</application>
+
+</manifest>

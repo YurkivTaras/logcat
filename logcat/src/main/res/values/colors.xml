@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="status_bar_color">#14000000</color>
+
+	<color name="log_error_color">#C20009</color>
+	<color name="selected_log_color">#8A5C9ABB</color>
+
+	<color name="white">#ffffff</color>
+	<color name="dark">#282b3c</color>
+	<color name="gunmetal">#454f5b</color>
+	<color name="hint_color">#919eab</color>
+
+	<color name="default_ripple">#bddbdbdb</color>
+	<color name="nav_bar_divider">#dadada</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+	<string name="app_name">Logcat</string>
+	<string name="title_filter">Filter</string>
+	<string name="title_regex">Regex</string>
+	<string name="title_show_time">Show time</string>
+	<string name="title_show_tag">Show TAG</string>
+	<string name="title_wrap_log">Wrap log</string>
+	<string name="title_log_copied">Log copied</string>
+</resources>

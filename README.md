@@ -2,10 +2,10 @@
 A library that allows you to view the application logs with a special activity for that
 
 <p align="center">
-    <img src="https://drive.google.com/uc?authuser=0&id=1KFNuEUq2GO0Q0ATtZcJetMulwpPQs5x3&export=download"/>
+	<img src="https://drive.google.com/uc?authuser=0&id=19SXbfHY4dU7efa1B8DpiKmXq8_hVpKh1&export=download"/>
+	&nbsp;
+	<img src="https://drive.google.com/uc?authuser=0&id=1KFNuEUq2GO0Q0ATtZcJetMulwpPQs5x3&export=download"/>
 </p>
-
-
 
 Add it in your root build.gradle at the end of repositories:
 

@@ -16,7 +16,7 @@ Add the dependency
 
 ```
 dependencies {
-	implementation 'com.github.YurkivTaras:logcat:Tag'
+	implementation 'com.github.YurkivTaras:logcat:1.0.0'
 }
 ```
 Android SDK Version
